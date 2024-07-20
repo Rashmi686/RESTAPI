@@ -1,0 +1,21 @@
+{ 
+"firstName": "Doll",
+"lastName": "Raut",
+"id": "EI54575",
+"AddressDetails":
+[ 
+{ 
+"HomName": "Swami",
+"HomNumber": "108",
+"Homstyle": "Duplex"
+},
+{ 
+"HomName": "Swami1",
+"HomNumber": "1081",
+"Homstyle": "Duplex1"
+}
+],
+"Designation": "TL"
+}
+
+
